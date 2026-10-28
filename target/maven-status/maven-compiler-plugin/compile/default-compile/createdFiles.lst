@@ -1,0 +1,5 @@
+com\moralestarrillo\denunciaservice\DenunciaserviceApplication.class
+com\moralestarrillo\denunciaservice\entity\Denuncia.class
+com\moralestarrillo\denunciaservice\service\DenunciaService.class
+com\moralestarrillo\denunciaservice\controller\DenunciaController.class
+com\moralestarrillo\denunciaservice\repository\DenunciaRepository.class
